@@ -1,3 +1,3 @@
 # PdfAttachment
 
-In the new folder c:/temp/ create a new folder "bin" and inside add the containt of temp.zip
+In the new folder c:/temp/ add the containt of temp.zip
